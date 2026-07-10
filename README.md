@@ -12,11 +12,13 @@ The purpose of this extension is to provide two benefits:
 # Continued version
 
 
-This is a continuation of the original extension, accessible at https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search
+This is a continuation of the original extension, accessible [here](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search)
 
-All thanks goes to the original creators of this great extension !
+All thanks go to the original creators of this extension!
 
-If you are the developer of the original extension and want to remove this version from the differents stores, please contact me at poewikisearchcontinued@gmail.com ! 
+If you are the developer of the original extension and want to remove this version from the different stores, please contact me at poewikisearchcontinued@gmail.com! 
+
+All following sections are from the original extensions; I've just made a few updates so that they stay relevant to the current version.
 
 
 
@@ -59,8 +61,8 @@ We use Jest for testing. Run `pnpm run test` or `pnpm run test:watch`.
 
 Yes, it is. We do not enforce its use, we provide it as a means to simplify your life when searching for PoE related information and as a means to globally redirect your requests to the official wiki, instead of the ad-ridden Fandom site. The code that does this sits in two places:
 
-- `src/background/background.js`
-- `src/ui/ui.js`
+- `background/background.js`
+- `ui/ui.js`
 
 Each file has a laymanised comment stack to walk even non-technical users through what it does and why. Don't be shy and read through!
 
@@ -74,7 +76,7 @@ Absolutely not. This extension does not need anything from you to work. The only
 
 ## I found a bug, what do I do?
 
-[Raise your issues here!](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search/issues)
+[Raise your issues here!](https://github.com/Yohpra/poe-wiki-search-continued/issues)
 
 ## I want to contribute, how do I do this?
 
