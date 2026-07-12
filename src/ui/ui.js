@@ -33,7 +33,7 @@ async function updateUI() {
 searchInput.focus();
 
 // While typing in the search input, we listen for a keyUP event for the key ENTER.
-// If this is registered - we assume you pressed ENTER and proceed.
+// If this is registered, we assume you pressed ENTER and proceed.
 searchInput.addEventListener("keyup", async (event) => {
     //If the key is not ENTER, we skip the current iteration of the event listener
     if (event.key !== "Enter")
