@@ -17,7 +17,7 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "poe-wiki-search-continued@yohpra",
+      "id": "poe-1-and-2-wiki-search-continued@yohpra",
       "data_collection_permissions": {
         "required": ["none"]
       }
