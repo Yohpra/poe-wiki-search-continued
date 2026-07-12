@@ -12,7 +12,8 @@ The purpose of this extension is to provide two benefits:
 # Continued version
 
 
-This is a continuation of the original extension, accessible [here](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search)
+This is a continuation of the original extension, accessible [here](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search).
+
 Since 2.0.0, i've added a toggle for PoE2.
 
 All thanks goes to the original creators of this extension!
