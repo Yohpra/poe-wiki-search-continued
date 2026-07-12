@@ -1,4 +1,4 @@
-<img src="icons/icon_152.png"/>
+<img src="src/icons/icon_152.png"/>
 
 # Path of Exile Wiki search
 
@@ -10,11 +10,11 @@ The purpose of this extension is to provide two benefits:
 - As part of an ongoing outcry over the old wiki `pathofexile.fandom.com` employing user-hostile and predatory approaches via tracking, fingerprinting and advertising, this extension intercepts any request your browser sends to Fandom's domain for `path of exile` (all other fandom wiki's are not affected, neither are any other web page requests) and parses out the target of your journey (A.K.A what section of the fandom wiki you were going to) and directs you to the official community wiki instead, leaving you to land on the same exact page you were after, just in a friendlier, community-backed wiki.
 
 # Continued version
-
+## General informations
 
 This is a continuation of the original extension, accessible [here](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search).
 
-Since 2.0.0, i've added a toggle for PoE2.
+Since 2.0.0, I've added a toggle for PoE2.
 
 All thanks goes to the original creators of this extension!
 
@@ -22,6 +22,16 @@ If you are the developer of the original extension and want to remove this versi
 
 All following sections are from the original extensions; I've just made a few updates so that they stay relevant to the current version.
 
+## AI disclaimer
+
+For clarification, I DID use AI in certain aspects of the development, mainly things specific to the add-on side of things (first time I wrote/updated one).
+
+For example (those will be technical aspects) : 
+  - How Firefox treats manifest differently than Chrome,
+  - How do MV3 redirection rules work?
+  - How does Firefox compile add-ons?
+  
+There's probably a few things I forgot, but the main point is: yes, AI was used as a helper for research on how the whole add-on side of things works, and what's needed for me to set up for the publication to go smoothly on both Chrome add-on store thingy and Mozilla add-on store thingy.
 
 
 # Dev quickstart
