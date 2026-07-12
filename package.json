@@ -1,6 +1,6 @@
 {
     "name": "poe-wiki-search-continued",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "description": "Stupid-simple wiki search for PoE!",
     "scripts": {
         "start": "web-ext run -s ./src",
