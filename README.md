@@ -13,8 +13,9 @@ The purpose of this extension is to provide two benefits:
 
 
 This is a continuation of the original extension, accessible [here](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search)
+Since 2.0.0, i've added a toggle for PoE2.
 
-All thanks go to the original creators of this extension!
+All thanks goes to the original creators of this extension!
 
 If you are the developer of the original extension and want to remove this version from the different stores, please contact me at poewikisearchcontinued@gmail.com! 
 
@@ -50,10 +51,6 @@ extension should just work almost everywhere!
 ## Build
 
 To build your extension for publishing, simply run `pnpm run build`. The packaged zip file will be output to `build/`.
-
-## Testing
-
-We use Jest for testing. Run `pnpm run test` or `pnpm run test:watch`.
 
 # FAQ
 
