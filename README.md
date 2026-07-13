@@ -14,13 +14,13 @@ The purpose of this extension is to provide two benefits:
 
 This is a continuation of the original extension, accessible [here](https://github.com/Project-Path-of-Exile-Wiki/poe-wiki-search).
 
-Since 2.0.0, I've added a toggle for PoE2.
+Since 2.0.0, I've added a toggle for PoE2. I do advise however to use DuckDuckGo instead of Google as a search engine if you play mainly PoE2, since Google as poorly indexed the official wiki.
 
 All thanks goes to the original creators of this extension!
 
 If you are the developer of the original extension and want to remove this version from the different stores, please contact me at poewikisearchcontinued@gmail.com! 
 
-All following sections are from the original extensions; I've just made a few updates so that they stay relevant to the current version.
+All following main sections are from the original extensions; I've just made a few updates so that they stay relevant to the current version.
 
 ## AI disclaimer
 
