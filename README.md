@@ -1,4 +1,4 @@
-<img src="src/icons/icon_152.png"/>
+<img src="src/icons/icon_152.png"/> <img src="src/icons/icon_2_152.png"/>
 
 # Path of Exile Wiki search
 
